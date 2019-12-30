@@ -19,7 +19,7 @@ namespace ExerciciosFixacaoSobreClasses
             double perimetro = ret.Perimetro();
             double diagonal = ret.Diagonal();
 
-
+            Console.WriteLine("As infromações sobre seu retangulo ---> ");
             Console.WriteLine(ret);
             Console.WriteLine();
         }
