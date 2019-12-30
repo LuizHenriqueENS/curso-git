@@ -21,7 +21,7 @@ namespace ExerciciosFixacaoSobreClasses
 
 
             Console.WriteLine(ret);
-
+            Console.WriteLine();
         }
     }
 }
